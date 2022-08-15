@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+D:\C++\cpp10\cpp10\Kaynak.cpp(4,25): error C3413: 'Storage8': geçersiz açıkça örnek oluşturma
+D:\C++\cpp10\cpp10\Kaynak.cpp(44,1): fatal error C1004: beklenmeyen dosya sonu bulundu
